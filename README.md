@@ -1,67 +1,75 @@
-# Hi 👋, I'm Nguyễn Kiều Trang
+# Xin chào! 👋 Mình là Nguyễn Kiều Trang
 
 <p align="center">
-  <b>Information Technology Student | Aspiring Business Analyst</b>
-  <br/>
-  <i>Bridging business needs and technology solutions.</i>
+  <strong>Sinh viên Công nghệ thông tin | Định hướng Business Analyst</strong>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Giới thiệu
 
-- 🎓 Information Technology student at **Phenikaa University**.
-- 💡 Interested in **Business Analysis**, requirement analysis, and software development.
-- 🌱 Continuously learning how to turn business requirements into practical software solutions.
-- 🔭 Currently working on [**RoseShop – E-commerce Flower Shop Management System**](https://github.com/KieuTrinh1510/RoseShop_TMDT).
+- 🎓 Sinh viên năm 4 ngành Công nghệ thông tin tại **Đại học Phenikaa**.
+- 💡 Quan tâm đến lĩnh vực **Business Analysis (Phân tích nghiệp vụ)** và phát triển phần mềm.
+- 🌱 Không ngừng học hỏi, nâng cao kiến thức nghiệp vụ và kỹ năng kỹ thuật.
+- 🔭 Dự án nổi bật [**RoseShop – Hệ thống quản lý cửa hàng hoa trực tuyến**](https://github.com/KieuTrinh1510/RoseShop_TMDT).
 
-## 🚀 Featured Project
+## 🎯 Định hướng & Kỹ năng
 
-### 🌸 RoseShop – E-commerce Flower Shop Management System
+| Nhóm kỹ năng | Nội dung |
+|---|---|
+| Phân tích nghiệp vụ | Thu thập yêu cầu, phân tích và đặc tả yêu cầu |
+| Mô hình hóa hệ thống | Use Case, Activity Diagram, Sequence Diagram, ERD |
+| Cơ sở dữ liệu | Thiết kế và truy vấn MySQL |
+| Phát triển phần mềm | PHP Laravel, Java, C#, HTML, CSS, JavaScript |
+| Công cụ | Git, GitHub, Docker, Figma |
 
-An e-commerce management system designed to support flower shop operations, inventory management, and online ordering.
+## 🌸 Dự án nổi bật
 
-**Technologies:** Laravel · PHP · MySQL · Bootstrap · JavaScript
+### RoseShop – Hệ thống quản lý cửa hàng hoa trực tuyến
 
-[View Project →](https://github.com/KieuTrinh1510/RoseShop_TMDT)
+Hệ thống thương mại điện tử hỗ trợ quản lý sản phẩm hoa, nguyên liệu, đơn hàng, kho hàng và hoạt động kinh doanh.
 
-## 🛠️ Languages and Tools
+**Công nghệ:** PHP · Laravel · MySQL · Bootstrap · JavaScript
 
-**Programming Languages**
+🔗 [Xem dự án trên GitHub](https://github.com/KieuTrinh1510/RoseShop_TMDT)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,python" />
-</p>
+## 🛠️ Ngôn ngữ lập trình & Công nghệ
 
-**Web Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,dotnet" />
-</p>
-
-**Database & Tools**
+**Ngôn ngữ lập trình**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,docker,rabbitmq,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,py&theme=light" />
 </p>
 
-## 📊 GitHub Statistics
+**Framework & Phát triển Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,html,css,bootstrap&theme=light" />
+</p>
+
+**Cơ sở dữ liệu & Công cụ**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,rabbitmq,postman,figma,linux,vscode&theme=light" />
+</p>
+
+## 📊 Thống kê GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true&locale=vi" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true&locale=vi" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=trangnguyenkieu927&theme=default&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=trangnguyenkieu927&theme=default&hide_border=true&locale=vi" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trangnguyenkieu927&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=trangnguyenkieu927&label=Lượt%20truy%20cập&color=blue&style=flat" />
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ✨</i>
+  <i>Cảm ơn bạn đã ghé thăm GitHub của mình! 💙</i>
 </p>
