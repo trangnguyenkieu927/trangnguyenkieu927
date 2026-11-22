@@ -56,8 +56,8 @@ Hệ thống thương mại điện tử hỗ trợ quản lý sản phẩm hoa,
 ## 📊 Thống kê GitHub
 
 <p align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
