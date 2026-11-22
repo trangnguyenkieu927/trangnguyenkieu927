@@ -1,52 +1,67 @@
-# Hi there! 👋 I'm Nguyễn Kiều Trang
+# Hi 👋, I'm Nguyễn Kiều Trang
 
-### Information Technology Student | Aspiring Business Analyst
-
-I'm a fourth-year Information Technology student at Phenikaa University, interested in **Business Analysis, Software Development, and Information Systems**.
-
-I enjoy understanding business requirements, analyzing workflows, and translating user needs into practical software solutions.
-
-- 🎯 **Career Goal:** Business Analyst (BA)
-- 🎓 **University:** Phenikaa University
-- 💻 **Current Focus:** Business Analysis & Software Projects
-- 🌱 **Currently Learning:** Requirements Analysis, UML, and Software Design
+<p align="center">
+  <b>Information Technology Student | Aspiring Business Analyst</b>
+  <br/>
+  <i>Bridging business needs and technology solutions.</i>
+</p>
 
 ---
+
+## 👩‍💻 About Me
+
+- 🎓 Information Technology student at **Phenikaa University**.
+- 💡 Interested in **Business Analysis**, requirement analysis, and software development.
+- 🌱 Continuously learning how to turn business requirements into practical software solutions.
+- 🔭 Currently working on [**RoseShop – E-commerce Flower Shop Management System**](https://github.com/KieuTrinh1510/RoseShop_TMDT).
 
 ## 🚀 Featured Project
 
-### 🌹 RoseShop – E-commerce Flower Shop Management System
+### 🌸 RoseShop – E-commerce Flower Shop Management System
 
-An e-commerce and management system designed for a flower shop, supporting product management, inventory, orders, and business operations.
+An e-commerce management system designed to support flower shop operations, inventory management, and online ordering.
 
-- **Role:** Project Member
-- **Technologies:** Laravel, PHP, MySQL, Bootstrap
-- **Repository:** [RoseShop_TMDT](https://github.com/KieuTrinh1510/RoseShop_TMDT)
+**Technologies:** Laravel · PHP · MySQL · Bootstrap · JavaScript
 
----
+[View Project →](https://github.com/KieuTrinh1510/RoseShop_TMDT)
 
-## 🛠️ Technical Skills
+## 🛠️ Languages and Tools
 
-**Programming & Web Development**
+**Programming Languages**
 
-PHP · Laravel · C# · Java · C · HTML · CSS · JavaScript · Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,php,js,python" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,dotnet" />
+</p>
 
 **Database & Tools**
 
-MySQL · Git · GitHub · Docker · RabbitMQ · Postman · Linux · Figma
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,docker,rabbitmq,postman,figma,linux" />
+</p>
 
 ## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=trangnguyenkieu927&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trangnguyenkieu927&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-- **GitHub:** [@trangnguyenkieu927](https://github.com/trangnguyenkieu927)
-- **Email:** hoangbaotrang779@gmail.com
-- **LinkedIn:** 
+<p align="center">
+  <i>Thanks for visiting my profile! ✨</i>
+</p>
