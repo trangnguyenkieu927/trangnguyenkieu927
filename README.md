@@ -56,26 +56,20 @@ Hệ thống thương mại điện tử hỗ trợ quản lý sản phẩm hoa,
 ## 📊 Thống kê GitHub
 
 <p align="center">
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&hide_rank=true&theme=default&hide_border=true&locale=vi"
-  />
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true&locale=vi"
-  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trangnguyenkieu927&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangnguyenkieu927&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%"
-    src="https://streak-stats.demolab.com?user=trangnguyenkieu927&theme=default&hide_border=true&locale=vi"
-  />
+  <img width="70%" src="https://streak-stats.demolab.com?user=trangnguyenkieu927&theme=default&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trangnguyenkieu927&label=Lượt%20truy%20cập&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=trangnguyenkieu927&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
-  <i>Cảm ơn bạn đã ghé thăm GitHub của mình! 💙</i>
+  <i>Thanks for visiting my profile! ✨</i>
 </p>
