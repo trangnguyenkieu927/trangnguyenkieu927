@@ -67,9 +67,5 @@ Hệ thống thương mại điện tử hỗ trợ quản lý sản phẩm hoa,
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trangnguyenkieu927&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center">
   <i>Thanks for visiting my profile! ✨</i>
 </p>
